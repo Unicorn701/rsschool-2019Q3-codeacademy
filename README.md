@@ -1,2 +1,2 @@
-Hello codeacademy
-# rsschool-2019Q3-codeacademy
+Yuliya Kastsevich
+HTML CSS Basics: https://www.codecademy.com/users/julsDoe1265069404/achievements
